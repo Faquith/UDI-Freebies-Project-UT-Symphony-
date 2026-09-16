@@ -69,7 +69,7 @@ export const artists = [
   {
     name: "tiadstart (Artist)",
     image: artist1,
-    link: "https://vgen.co/tiadstart/portfolio",
+    link: "https://www.instagram.com/tiadstart?stkn=ZmdrNGkzeXowazE0",
   },
   {
     name: "Sabita Onitsuga (Lead Artist)",
