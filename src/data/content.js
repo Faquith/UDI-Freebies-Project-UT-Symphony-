@@ -111,5 +111,5 @@ export const socialLinks = {
   twitter: "https://x.com/utdr_id?s=20",
   discord: "https://discord.gg/dE2BN2aQsM",
   facebook: "https://www.facebook.com/share/g/1DNB4BpxVj/",
-  whatsapp: "https://chat.whatsapp.com/udi-example",
+  whatsapp: "https://chat.whatsapp.com/GoKIexwD7TPGQkgyFSIQlG",
 };
